@@ -1,0 +1,19 @@
+{
+  "name": "hlslparser-js",
+  "version": "0.0.1",
+  "description": "Port of hlslparser to JavaScript using Emscripten",
+  "author": "Jordan Berg <jordannealberg@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jberg/hlslparser-js.git"
+  },
+  "main": "dist/hlslparser.js",
+  "unpkg": "dist/hlslparser.js",
+  "files": [
+    "dist/hlslparser.js"
+  ],
+  "scripts": {
+    "build": "./build.sh"
+  }
+}
