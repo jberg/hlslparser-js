@@ -1,0 +1,3 @@
+[submodule "hlslparser"]
+	path = hlslparser
+	url = https://github.com/Thekla/hlslparser.git
